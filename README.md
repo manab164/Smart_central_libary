@@ -43,6 +43,9 @@ The EduContentLibrary smart contract aims to create a decentralized platform for
 
 0xab31ef5c3ceb4ab865e6c1ad61a47f68565b752f
 
+![image](https://github.com/user-attachments/assets/c46bb5ce-efa4-451b-b151-dab65806d952)
+
+
 ##smart_central_library
 
 ![image](https://github.com/user-attachments/assets/9eb5c06a-c540-4055-9456-125e859b00da)
