@@ -58,7 +58,7 @@ For any inquiries or support regarding this project, please feel free to reach o
 - **Name**: Manab Jyoti Goswami
 - **Email**: manabjyotigoswami79@gmail.com
 - **GitHub**: https://github.com/manab164/Smart_central_libary
-
+-**LinkedIn**:https://www.linkedin.com/in/manab-jyoti-goswami-496133264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## License
 
