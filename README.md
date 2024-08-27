@@ -41,8 +41,12 @@ The EduContentLibrary smart contract aims to create a decentralized platform for
 
 ## Contract Address
 
-[Contract Address]: **TBA upon deployment**  
-This smart contract will be deployed on the Ethereum blockchain, and the address will be updated here once available.
+0xab31ef5c3ceb4ab865e6c1ad61a47f68565b752f
+
+##smart_central_library
+
+![image](https://github.com/user-attachments/assets/9eb5c06a-c540-4055-9456-125e859b00da)
+
 
 ## Future Scope
 
@@ -58,7 +62,7 @@ For any inquiries or support regarding this project, please feel free to reach o
 - **Name**: Manab Jyoti Goswami
 - **Email**: manabjyotigoswami79@gmail.com
 - **GitHub**: https://github.com/manab164/Smart_central_libary
--**LinkedIn**:https://www.linkedin.com/in/manab-jyoti-goswami-496133264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn**:https://www.linkedin.com/in/manab-jyoti-goswami-496133264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## License
 
